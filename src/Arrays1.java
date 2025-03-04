@@ -1,4 +1,5 @@
 // Gestion de temperatura
+// Ejercicio de clase
 
 import java.util.Scanner;
 
